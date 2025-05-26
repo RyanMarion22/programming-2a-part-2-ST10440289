@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\POE\POE\bin\Debug\POE.exe.config
+C:\Users\Ryan\source\repos\POE\POE\bin\Debug\POE.exe
+C:\Users\Ryan\source\repos\POE\POE\bin\Debug\POE.pdb
+C:\Users\Ryan\source\repos\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\POE\POE\obj\Debug\POE.exe
+C:\Users\Ryan\source\repos\POE\POE\obj\Debug\POE.pdb
